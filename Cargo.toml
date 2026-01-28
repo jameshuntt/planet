@@ -1,0 +1,12 @@
+[package]
+name = "planet"
+version = "0.1.0"
+edition = "2024"
+
+license = "MIT OR Apache-2.0"
+description = "High-assurance global network topology and resource mapping. Manages RIR data, IXP peering logic, and CIDR orchestration for the Honest suite."
+
+authors = ["James Hunt <jameshuntdevelopment@gmail.com>"]
+repository = "https://github.com/jameshuntt/planet"
+
+[dependencies]
